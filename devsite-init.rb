@@ -5,7 +5,7 @@ class DevsiteInit < Formula
   sha256 "90ffe1db97daa2edde27532a3a6bb1a9d8fa271c8ba1b3e18e236595fbbe2153"
 
   def install
-    bin.install "devsite"
+    bin.install "devsite.sh"
   end
 
   test do
