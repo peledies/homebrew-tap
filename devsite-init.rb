@@ -1,4 +1,4 @@
-class DevSite < Formula
+class DevsiteInit < Formula
   desc "CLI utility for Initializing a new Develper environment"
   homepage "https://github.com/peledies/devsite-init"
   url "https://github.com/peledies/devsite-init/archive/master.tar.gz"
