@@ -1,4 +1,4 @@
-class EcToo < Formula
+class Ectoo < Formula
   desc "CLI utility for bridging the gap with the AWS CLI"
   homepage "https://github.com/peledies/ectoo"
   url "https://github.com/peledies/ectoo/archive/0.0.1.tar.gz"
