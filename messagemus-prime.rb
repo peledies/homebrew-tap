@@ -1,4 +1,6 @@
-# `brew fetch messagemus-prime` to display the most current sha256
+# To display the most current sha256
+# wget -qO- https://github.com/peledies/messagemus-prime/archive/[version].tar.gz | shasum -a 256
+# curl -Ls https://github.com/peledies/messagemus-prime/archive/[version].tar.gz | shasum -a 256
 class MessagemusPrime < Formula
   desc "CLI utility for displaying messages to the top of the terminal"
   homepage "https://github.com/peledies/messagemus-prime"
