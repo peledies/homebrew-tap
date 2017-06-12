@@ -1,3 +1,4 @@
+# `brew fetch devsite` to display the most current sha256
 class DevsiteInit < Formula
   desc "CLI utility for Initializing a new Develper environment"
   homepage "https://github.com/peledies/devsite-init"

@@ -1,3 +1,4 @@
+# `brew fetch messagemus-prime` to display the most current sha256
 class MessagemusPrime < Formula
   desc "CLI utility for displaying messages to the top of the terminal"
   homepage "https://github.com/peledies/messagemus-prime"
